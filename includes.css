@@ -1,0 +1,37 @@
+
+body{padding: 6%;
+    background-color: rgb(146, 180, 243);}
+dd{background-color: rgb(146, 180, 243);}
+h1{color: indigo;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(143, 180, 243);
+    background-image: url(15.jpg);}
+    header{
+        font-family: 'Times New Roman', Times, serif;
+        background-image: url(15.jpg);
+        height: 200vh;
+        background-size: cover;
+        background-position: center;
+
+    }
+ul{
+    float: right;
+    list-style-type: none;
+    margin: 25px;
+
+}
+ul li{
+    display: inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+    color: indigo;
+    padding: 5px 20px;
+    border: 1px solid #fff
+}
+ul{
+    ruby-align: center;
+}
+
+    
